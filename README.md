@@ -1,2 +1,2 @@
-# candlestick
-Candlestick - AI Chart Analysis
+# alpha ai
+Alpha AI
